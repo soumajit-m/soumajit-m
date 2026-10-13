@@ -31,6 +31,17 @@
 
 ---
 
+### 📊 GitHub Activity
+
 <div align="center">
-  <sub>Designed with precision for Digital IC & Hardware Engineering ⚡</sub>
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=soumajit-m&hide=issues,prs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumajit-m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
